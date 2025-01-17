@@ -1,0 +1,6 @@
+python==3.8.20
+dbt-core==1.7.0
+dbt-postgres==1.7.0
+postgres==12.17
+psycopg2==2.8.4
+psycopg2-binary==2.8.4
